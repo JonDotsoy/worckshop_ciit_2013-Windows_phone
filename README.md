@@ -7,12 +7,6 @@ El desarrollo de windows phone utiliza la interfas de usuario escrito en XML. to
 ## Gestor de evnetos.
 el evento es rpgoramado en un cs escrito en lenguaje "C#".
 
-## Objetos en codigo
-Para llamar a los objetos se asemeja a java
-```
-string nombre;
-```
-
 ### Metodo MessageBox.Show.
 Este metodo envia mensajes al usuario, utiliza un metodo estatico.
 ```
@@ -30,7 +24,8 @@ String nombre = TextBox.Text.toString();
 
 ## Objetos
 ### Atributos
-#### Name Es el elemento unico que posee cada ojeto
+#### _Name_
+Es el elemento unico que posee cada ojeto
 ### TextBox
-
-
+Este objeto permite que el usuario ingrese un texto, en html es ``` <input type="text"> ```
+###
